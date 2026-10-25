@@ -239,4 +239,4 @@ This repository serves as the official landing page for Jitsi Meet. The software
 **Get the most recent version of Jitsi Meet today!**
 
 ---
-**Last updated:** 2026-10-24 23:00:22 UTC
+**Last updated:** 2026-10-25 03:58:16 UTC
